@@ -55,4 +55,5 @@ Development, testing, and release checklist for `securecrt-decoder`.
 - [x] Sample regression test files in `testdata/` (`router_cisco_v1.ini`, `switch_core_v2.ini`, `nested/bastion_key.ini`).
 - [x] Professional `README.md` with usage examples, default paths, and legal disclaimer.
 - [x] Verified unit tests and cross-compilation across all 6 targets.
-- [ ] Initial commit and push to GitHub repository.
+- [x] Initial commit and push to GitHub repository.
+- [x] Automated release via GoReleaser (v1.0.0) published with binaries for 6 targets.
