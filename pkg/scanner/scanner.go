@@ -1,5 +1,5 @@
 // Project: SecureCRT Password Decoder (securecrt-decoder)
-// Version: 1.0.0
+// Version: 1.0.1
 // Description: Recursive directory traversal, file discovery, and hierarchy-aware session naming.
 // License: MIT
 

@@ -1,5 +1,5 @@
 // Project: SecureCRT Password Decoder (securecrt-decoder)
-// Version: 1.0.0
+// Version: 1.0.1
 // Description: Command-line entrypoint, flag parsing, and multi-format output rendering.
 // License: MIT
 
@@ -23,7 +23,7 @@ import (
 
 // Build information injected via GoReleaser ldflags.
 var (
-	version = "1.0.0"
+	version = "1.0.1"
 	commit  = "none"
 	date    = "unknown"
 )

@@ -1,5 +1,5 @@
 // Project: SecureCRT Password Decoder (securecrt-decoder)
-// Version: 1.0.0
+// Version: 1.0.1
 // Description: SecureCRT modern v2 AES-256-CBC decryption (variants "02" and "03") with checksum verification.
 // License: MIT
 

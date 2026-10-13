@@ -43,7 +43,7 @@ La codebase segue il layout standard idiomatico dei progetti Go:
 │       └── scanner_test.go      # Test unitari dello scanner
 ├── testdata/                    # File .ini di esempio e casi di test per regressione
 ├── .gitignore                   # File e directory ignorati da Git
-├── .goreleaser.yaml             # Configurazione GoReleaser per i 6 target di compilazione
+├── .goreleaser.yaml             # Configurazione GoReleaser per gli 8 target di compilazione (Linux, FreeBSD, Windows, macOS)
 ├── AGENTS.md                    # Questo file di guida
 ├── LICENSE                      # Licenza MIT
 └── README.md                    # Documentazione per l'utente finale

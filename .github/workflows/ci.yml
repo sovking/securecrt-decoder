@@ -28,7 +28,12 @@ jobs:
 
       - name: Verify compilation on all targets
         run: |
-          targets=("linux/amd64" "linux/arm64" "windows/amd64" "windows/arm64" "darwin/amd64" "darwin/arm64")
+          targets=(
+            "linux/amd64" "linux/arm64"
+            "windows/amd64" "windows/arm64"
+            "darwin/amd64" "darwin/arm64"
+            "freebsd/amd64" "freebsd/arm64"
+          )
           for target in "${targets[@]}"; do
             IFS="/" read -r os arch <<< "$target"
             echo "Testing build for $os/$arch..."

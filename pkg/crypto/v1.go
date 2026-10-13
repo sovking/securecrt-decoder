@@ -1,5 +1,5 @@
 // Project: SecureCRT Password Decoder (securecrt-decoder)
-// Version: 1.0.0
+// Version: 1.0.1
 // Description: SecureCRT legacy v1 two-pass Blowfish-CBC decryption with UTF-16LE decoding.
 // License: MIT
 

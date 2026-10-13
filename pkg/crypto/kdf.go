@@ -1,5 +1,5 @@
 // Project: SecureCRT Password Decoder (securecrt-decoder)
-// Version: 1.0.0
+// Version: 1.0.1
 // Description: SecureCRT v2 (03) Key Derivation Function based on bcrypt_pbkdf and SHA-512.
 // License: MIT
 

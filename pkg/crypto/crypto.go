@@ -1,5 +1,5 @@
 // Project: SecureCRT Password Decoder (securecrt-decoder)
-// Version: 1.0.0
+// Version: 1.0.1
 // Description: Common crypto interfaces, types, and automated version cascade dispatcher.
 // License: MIT
 

@@ -24,8 +24,9 @@ A fast, standalone, pure-Go CLI utility designed for system administrators, DevO
 - **Zero Runtime Dependencies (Pure Go):**
   - Compiled with `CGO_ENABLED=0` as a standalone static executable without requiring any C libraries or external runtimes.
 - **Multi-Platform Support:**
-  - Native pre-compiled binaries available for **6 architectures**:
+  - Native pre-compiled binaries available for **8 architectures**:
     - **Linux**: `amd64` (x86_64), `arm64`
+    - **FreeBSD**: `amd64` (x86_64), `arm64` (FreeBSD 13, 14, and 15)
     - **Windows**: `amd64` (x86_64), `arm64`
     - **macOS**: `amd64` (Intel), `arm64` (Apple Silicon M1/M2/M3/M4)
 - **Multiple Output Formats:**

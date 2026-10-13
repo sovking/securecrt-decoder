@@ -1,5 +1,5 @@
 // Project: SecureCRT Password Decoder (securecrt-decoder)
-// Version: 1.0.0
+// Version: 1.0.1
 // Description: SecureCRT session .ini file parsing, protocol detection (SSH, RDP, Telnet, Serial), and credential extraction.
 // License: MIT
 
